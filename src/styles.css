@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&display=swap');
+body {
+    width: 100%;
+    max-width: 1366px;
+    margin:  0 auto;
+    background-color: #f4f4f4;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+header .user-profile  {
+    padding: 24px 16px;
+    text-align: right;
+}
+
